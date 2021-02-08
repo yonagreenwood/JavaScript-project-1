@@ -1,0 +1,51 @@
+*{
+    font-family: sans-serif;
+    font-weight: 400px;
+    background-color: #F2F2F2;
+}
+
+.text{
+ position: absolute;
+margin: 100px;
+left: 64px;
+}
+
+.title{
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 79px;
+}
+
+.sentence{
+    position: absolute;
+    height: 24px;
+    width: 189px;
+    font-size: 24px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #373A3C;
+
+}
+
+.select-number{
+left: 200px;
+height: 38px;
+width: 86px;
+position: absolute;
+}
+
+.button{
+    background: #0275D8;
+    border-radius: 4px;
+    height: 38px;
+    width: 39px;
+    left: 300px;
+    position: absolute;
+    
+}
+
+.output{
+    position: absolute;
+    left: 350px;
+}
